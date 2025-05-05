@@ -4,7 +4,7 @@ This is my personal portfolio website built using Framer, showcasing my backgrou
 
 ## 🔗 Live Preview
 
-👉 [on progress....](https://yourname.framer.website)  
+👉 [portofolio](https://portofolioariq.framer.website/)  
 ## 📃 Pages
 
 - Home: A brief introduction and welcoming section highlighting who I am and what I do.
@@ -16,8 +16,3 @@ This is my personal portfolio website built using Framer, showcasing my backgrou
 - Contact: A simple and accessible way to get in touch with me via email or social media.
 ## 🛠 Tech
 - Framer – No-code platform for building responsive sites
-
-## 📸 Screenshots
-
-![on progress](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
