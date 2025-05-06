@@ -11,8 +11,11 @@ This is my personal portfolio website built using Framer, showcasing my backgrou
 
 - About : A summary of my educational background, skills, interests, and career goals.
 
+- Tech Stack : A showcase of my tech code
+
 - Projects: A showcase of selected projects I've worked on, including technologies used and key features.
 
 - Contact: A simple and accessible way to get in touch with me via email or social media.
+  
 ## 🛠 Tech
 - Framer – No-code platform for building responsive sites
